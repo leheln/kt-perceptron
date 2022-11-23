@@ -6,3 +6,5 @@ product on them. The neural network uses this matrix library.
 
 ### Neural network library
 Build perceptron neural networks then compile, teach, and use them.
+
+The source files contain verbose comments to explain how the API works.
